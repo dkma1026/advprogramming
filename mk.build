@@ -1,0 +1,6 @@
+# Checksource and do the build.
+PATH=$PATH:/afs/cats.ucsc.edu/courses/cmps012b-wm/bin/
+export PATH
+partnercheck 2>&1 | tee partnercheck.log
+checksource M* R* *.h* *.c* 2>&1 | tee checksource.log
+gmake 2>&1 | tee gmake.log

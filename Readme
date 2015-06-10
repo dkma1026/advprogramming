@@ -1,0 +1,17 @@
+Diana Ma, dkma@ucsc.edu
+CMPS109 Spring15 Mackey
+Assignment: asg5- client/server and sockets
+
+
+   This assignment contains:
+      README
+      Makefile
+      cix.cpp
+      cixd.cpp
+      protocol.cpp
+      protocol.h
+      sockets.cpp
+      sockets.h
+
+   * The code for protocol.cpp, protocol.h, sockets.cpp, sockets.h, and makefile was written by Professor Wesley Mackey.
+   * The code for cix.cpp and cixd.cpp was partially written by Wesley Mackey.
